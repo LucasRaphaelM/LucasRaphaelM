@@ -30,3 +30,8 @@
 <a href="https://github.com/LucasRaphaelM/TheFramedMaze/releases/download/v1.0.0-alpha/Framed.Maze.exe">
   <img width=260 src="https://cdn.discordapp.com/attachments/513565730294202376/1081009072293294150/download_button.png" />
 </a><br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lucasraphaelM/count.svg" />
+</p>
