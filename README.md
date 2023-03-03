@@ -1,7 +1,13 @@
 ### Olá! Eu sou o Lucas Raphael.
 
 <a href="https://github.com/LucasRaphaelM">
-  <img height = 175 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasraphaelM&show_icons=true&include_all_commits=true&theme=dracula" alt="Anurag's github stats" />
+  <img height = 300 align="center" src="https://cdn.discordapp.com/attachments/513565730294202376/1081020658953244742/banner_Luckw.png" />
+</a>
+
+<p></p>
+
+<a href="https://github.com/LucasRaphaelM">
+  <img height = 175 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasraphaelM&show_icons=true&include_all_commits=true&theme=dracula" alt="Lucas' github stats" />
 </a>
 
 <a href="https://github.com/LucasRaphaelM">
