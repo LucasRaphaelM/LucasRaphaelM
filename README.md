@@ -1,11 +1,11 @@
 ### Olá! Eu sou o Lucas Raphael.
 
 <a href="https://github.com/LucasRaphaelM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasraphaelM&show_icons=true&include_all_commits=true&theme=dracula&card_width=200" alt="Anurag's github stats" />
+  <img height = 150 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasraphaelM&show_icons=true&include_all_commits=true&theme=dracula" alt="Anurag's github stats" />
 </a>
 
 <a href="https://github.com/LucasRaphaelM">
-  <img height = 195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasraphaelM&layout=compact&theme=dracula" />
+  <img height = 150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasraphaelM&layout=compact&theme=dracula" />
 </a>
 
 <h2>Aqui está um jogo que estou atualmente desenvolvendo</h2>
