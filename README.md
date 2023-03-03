@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/LucasRaphaelM">
-  <img height = 196 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasraphaelM&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasraphaelM&layout=compact&theme=dracula" />
 </a>
 
 <h2>Aqui está um jogo que estou atualmente desenvolvendo</h2>
