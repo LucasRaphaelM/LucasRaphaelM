@@ -22,7 +22,7 @@
 <h2>Aqui está um jogo que estou atualmente desenvolvendo</h2>
 
 <a href="https://github.com/LucasRaphaelM/TheFramedMaze">
-  <img height=354 src="https://cdn.discordapp.com/attachments/513565730294202376/1081011987716247682/repo_banner.png" />
+  <img height=354 src="https://github.com/LucasRaphaelM/LucasRaphaelM/blob/main/gif-min.gif" />
 </a><br>
 
 <h3>• Download Alpha Version 👇</h3><br>
