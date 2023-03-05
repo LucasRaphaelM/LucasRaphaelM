@@ -6,7 +6,7 @@
 <p></p>
 
 <a href="https://github.com/LucasRaphaelM">
-  <img height = 257 align="center" src="https://cdn.discordapp.com/attachments/513565730294202376/1081020658953244742/banner_Luckw.png" />
+  <img height = 257 align="center" src="https://github.com/LucasRaphaelM/LucasRaphaelM/blob/main/banner.gif" />
 </a>
 
 <p></p>
