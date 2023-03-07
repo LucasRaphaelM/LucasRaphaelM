@@ -12,7 +12,7 @@
 <p></p>
 
 <a href="https://github.com/LucasRaphaelM">
-  <img height = 180 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasraphaelM&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas' github stats" />
+  <img height = 180 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasraphaelM&show_icons=true&theme=gotham&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas' github stats" />
 </a>
 
 <a href="https://github.com/LucasRaphaelM">
