@@ -25,7 +25,7 @@
   <img height=354 src="https://github.com/LucasRaphaelM/LucasRaphaelM/blob/main/gif-min.gif" />
 </a><br>
 
-<h3>• Download Beta Version <a href="https://github.com/LucasRaphaelM/TheFramedMaze/releases/download/v1.0.0-alpha/Framed.Maze.exe">here</a></h3><br>
+<h3>• Download Beta Version <a href="https://github.com/LucasRaphaelM/TheFramedMaze/releases/download/v1.0.0-beta/TheFramedMaze.exe">here</a></h3><br>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasRaphaelM&theme=gotham)
 
