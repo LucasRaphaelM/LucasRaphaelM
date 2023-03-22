@@ -25,11 +25,7 @@
   <img height=354 src="https://github.com/LucasRaphaelM/LucasRaphaelM/blob/main/gif-min.gif" />
 </a><br>
 
-<h3>• Download Alpha Version 👇</h3><br>
-
-<a href="https://github.com/LucasRaphaelM/TheFramedMaze/releases/download/v1.0.0-alpha/Framed.Maze.exe">
-  <img width=260 src="https://cdn.discordapp.com/attachments/513565730294202376/1081009072293294150/download_button.png" />
-</a><br>
+<h3>• Download Beta Version <a href="https://github.com/LucasRaphaelM/TheFramedMaze/releases/download/v1.0.0-alpha/Framed.Maze.exe">here</a></h3><br>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasRaphaelM&theme=gotham)
 
