@@ -27,8 +27,6 @@
 
 <h3>• Download Beta Version <a href="https://github.com/LucasRaphaelM/TheFramedMaze/releases/download/v1.0.0-beta/TheFramedMaze.exe">here</a></h3><br>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasRaphaelM&theme=gotham)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/lucasraphaelM/count.svg" />
