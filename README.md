@@ -1,33 +1,33 @@
-### Olá! Eu sou o Lucas Raphael.
+# 🙋‍♂️ Olá!! • Hello!!
 
-<p> 🇧🇷 • Ola me chamo Lucas Raphael, Estou atualmente no terceiro período da faculdade de ciência da computação na PUC MINAS. </p>
-<p> 🇺🇸 • Hello my name is Lucas Raphael, i'm currently in the third/3rd semester of computer science in PUC MINAS. </p>
+<p> 🇧🇷 • Me chamo Lucas Raphael, Estou atualmente no sétimo período da faculdade de ciência da computação na PUC MINAS. </p>
+<p> 🇺🇸 • My name is Lucas Raphael, i'm currently in the seventh/7th semester of computer science in PUC MINAS. </p>
 
-<p></p>
+---
 
-<a href="https://github.com/LucasRaphaelM">
-  <img height = 257 align="center" src="https://github.com/LucasRaphaelM/LucasRaphaelM/blob/main/banner.gif" />
-</a>
+## 🧑‍💻 Conhecimentos • Knowledges
 
-<p></p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-dotnetcore" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Lucas-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lucas-Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Lucas-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
-<a href="https://github.com/LucasRaphaelM">
-  <img height = 180 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasraphaelM&show_icons=true&theme=gotham&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas' github stats" />
-</a>
+---
 
-<a href="https://github.com/LucasRaphaelM">
-  <img height = 180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasraphaelM&layout=compact&theme=gotham&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-</a>
+## 🧑‍💻 Encontre-me em • Find me on
 
-<h2>Aqui está um jogo que estou atualmente desenvolvendo</h2>
+<div> 
+  <a href="https://instagram.com/lucckw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasrmnogueira@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasrmnogueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-<a href="https://github.com/LucasRaphaelM/TheFramedMaze">
-  <img height=354 src="https://github.com/LucasRaphaelM/LucasRaphaelM/blob/main/gif-min.gif" />
-</a><br>
+---
 
-<h3>• Download Beta Version <a href="https://github.com/LucasRaphaelM/TheFramedMaze/releases/download/v1.0.0-beta/TheFramedMaze.exe">here</a></h3><br>
+## 🚀 Meu projeto mais recente • My latest project
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lucasraphaelM/count.svg" />
-</p>
+  <a href="https://github.com/LucasRaphaelM/game-store-api-restful" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
